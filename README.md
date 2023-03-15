@@ -1,4 +1,4 @@
-# ![image](https://user-images.githubusercontent.com/92988853/225339308-38787712-3e84-40eb-bc63-563eced6322f.png) Osama Aleem
+# Osama Aleem
 **`Developer | Curious Mind | Reader | Amateur Philosopher`**
 
 Hello, I'm Osama Aleem, a final year BS Information Technology student and aspiring software engineer. I'm passionate about programming and always looking for new ways to push the boundaries of what's possible. When I'm not building software, I love to read and explore new ideas. I believe that learning is a lifelong process, and I'm always seeking out new opportunities to grow and develop my skills. My goal is to build innovative software solutions that make a positive impact on people's lives.
@@ -9,7 +9,6 @@ Hello, I'm Osama Aleem, a final year BS Information Technology student and aspir
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
 <img align="left" alt="MS Sql Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
