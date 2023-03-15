@@ -22,13 +22,13 @@ Hello, I'm Osama Aleem, a final year BS Information Technology student and aspir
 
 #
 
-| <a href="https://github.com/osamaaleem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaaleem&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Osama's github stats" /></a> | <a href="https://github.com/osamaaleem/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaaleem&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/osamaaleem/"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaaleem&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Osama's github stats" /></a> | <a href="https://github.com/osamaaleem/"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaaleem&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/osamaaleem/mob_monitoring_api">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osamaaleem&repo=mob_monitoring_api&theme=buefy" />
 </a>
 
