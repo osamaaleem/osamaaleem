@@ -1,7 +1,7 @@
 # Osama Aleem
-**`Building the future, one line of code at a time`**
+**`Developer | Curious Mind | Reader | Amateur Philosopher`**
 
-"Hello, I'm Osama Aleem, a final year BS Information Technology student and aspiring software engineer. I'm passionate about programming and always looking for new ways to push the boundaries of what's possible. When I'm not building software, I love to read and explore new ideas. I believe that learning is a lifelong process, and I'm always seeking out new opportunities to grow and develop my skills. My goal is to build innovative software solutions that make a positive impact on people's lives."
+Hello, I'm Osama Aleem, a final year BS Information Technology student and aspiring software engineer. I'm passionate about programming and always looking for new ways to push the boundaries of what's possible. When I'm not building software, I love to read and explore new ideas. I believe that learning is a lifelong process, and I'm always seeking out new opportunities to grow and develop my skills. My goal is to build innovative software solutions that make a positive impact on people's lives.
 
 ---
 
@@ -23,7 +23,7 @@
 
 #
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaaleem&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Osama's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=osamaaleem&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Osama's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamaaleem&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 #### Top Repositories
