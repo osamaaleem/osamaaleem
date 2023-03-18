@@ -1,5 +1,5 @@
 # Osama Aleem
-**`Developer | Curious Mind | Reader | Amateur Philosopher`**
+**`Developer | Curious Mind | Reader`**
 
 Hello, I'm Osama Aleem, a final year BS Information Technology student and aspiring software engineer. I'm passionate about programming and always looking for new ways to push the boundaries of what's possible. When I'm not building software, I love to read and explore new ideas. I believe that learning is a lifelong process, and I'm always seeking out new opportunities to grow and develop my skills. My goal is to build innovative software solutions that make a positive impact on people's lives.
 
