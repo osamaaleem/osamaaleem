@@ -32,6 +32,10 @@ Hello, I'm Osama Aleem, a final year BS Information Technology student and aspir
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osamaaleem&repo=mob_monitoring_api&theme=buefy" />
 </a>
 
+<a href="https://github.com/osamaaleem/mob_monitoring_flutter">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=osamaaleem&repo=mob_monitoring_flutter&theme=buefy" />
+</a>
+
 <br />
 <br />
 
